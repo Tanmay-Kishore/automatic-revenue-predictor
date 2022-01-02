@@ -1,0 +1,13 @@
+pandas
+numpy
+scipy
+sklearn
+matplotlib
+eli5
+tfidf
+lightgbm
+ipykernel
+seaborn
+nltk
+xgboost
+plotly
